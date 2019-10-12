@@ -1,17 +1,12 @@
-#recieved help from: 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# Recieved help from: 
+# https://stackoverflow.com/questions/903853/how-do-you-extract-a-column-from-a-multi-dimensional-array
+# https://www.programiz.com/python-programming/examples/add-matrix
+# https://stackoverflow.com/questions/10713004/find-length-of-2d-array-python
+# https://stackoverflow.com/questions/22741030/how-to-input-matrix-2d-list-in-python
+# https://www.programiz.com/python-programming/examples/multiply-matrix
+# https://stackoverflow.com/questions/32669855/dot-product-of-two-lists-in-python
+# https://www.geeksforgeeks.org/transpose-matrix-single-line-python/
+
 def makeMatrix():
     m1 = [  [1,2,3],
             [4,5,6],
